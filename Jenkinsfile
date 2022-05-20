@@ -16,6 +16,7 @@ pipeline{
       steps
       {
         echo "Do something"
+        echo "pruebita"
       }
     }
   }
